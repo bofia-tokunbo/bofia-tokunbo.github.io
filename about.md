@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## A student of Tech Expert Academy
+## An enthusiast of Tech Expert Academy
 
 ### Why
 
@@ -17,4 +17,4 @@ I am student interested in the three months intensive training on Cloud solution
 
 Check out my [website](bofia-tokunbo.github.io). Follow me on [LinkedIn](https://ng.linkedin.com/in/bofia-tokunbo-8ab10366).
 
-Hi, nice to meet you.
+Hello, nice to meet you.
