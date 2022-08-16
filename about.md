@@ -7,11 +7,11 @@ title: About
 
 ### Why
 
-I have a keen interest in Cloud solutions.
+I require knowledge to profer solutions to challenges and services associated with Cloud computing by delivering IT resources on demand over the Internet. 
 
 ### What
 
-I am student interested in the three months intensive training on Cloud solutions.
+I am interested in the three months intensive training on Cloud solutions.
 
 ### Contact
 
